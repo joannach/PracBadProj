@@ -1,0 +1,8 @@
+c:\users\asia\documents\visual studio 2015\Projects\ProjTransakcje\ProjTransakcje\bin\Debug\ProjTransakcje.exe.config
+c:\users\asia\documents\visual studio 2015\Projects\ProjTransakcje\ProjTransakcje\bin\Debug\ProjTransakcje.exe
+c:\users\asia\documents\visual studio 2015\Projects\ProjTransakcje\ProjTransakcje\bin\Debug\ProjTransakcje.pdb
+c:\users\asia\documents\visual studio 2015\Projects\ProjTransakcje\ProjTransakcje\obj\Debug\ProjTransakcje.csprojResolveAssemblyReference.cache
+c:\users\asia\documents\visual studio 2015\Projects\ProjTransakcje\ProjTransakcje\obj\Debug\ProjTransakcje.exe
+c:\users\asia\documents\visual studio 2015\Projects\ProjTransakcje\ProjTransakcje\obj\Debug\ProjTransakcje.pdb
+C:\Users\Asia\documents\visual studio 2015\Projects\ProjTransakcje\ProjTransakcje\bin\Debug\NLog.dll
+C:\Users\Asia\documents\visual studio 2015\Projects\ProjTransakcje\ProjTransakcje\bin\Debug\NLog.xml

@@ -1,0 +1,447 @@
+Rozpoczecie transakcji dla miejsca 8: 
+Rozpoczecie transakcji dla miejsca 8: 
+Rozpoczecie transakcji dla miejsca 6: 
+Rozpoczecie transakcji dla miejsca 6: 
+Rozpoczecie transakcji dla miejsca 6: 
+Rozpoczecie transakcji dla miejsca 13: 
+Rozpoczecie transakcji dla miejsca 13: 
+Rozpoczecie transakcji dla miejsca 13: 
+Rozpoczecie transakcji dla miejsca 13: 
+Rozpoczecie transakcji dla miejsca 13: 
+Rozpoczecie transakcji dla miejsca 12: 
+Rozpoczecie transakcji dla miejsca 12: 
+Rozpoczecie transakcji dla miejsca 11: 
+Rozpoczecie transakcji dla miejsca 11: 
+Rozpoczecie transakcji dla miejsca 11: 
+Rozpoczecie transakcji dla miejsca 6: 
+Rozpoczecie transakcji dla miejsca 6: 
+Rozpoczecie transakcji dla miejsca 4: 
+Rozpoczecie transakcji dla miejsca 4: 
+Rozpoczecie transakcji dla miejsca 4: 
+Rozpoczecie transakcji dla miejsca 18: 
+Rozpoczecie transakcji dla miejsca 18: 
+Rozpoczecie transakcji dla miejsca 16: 
+Rozpoczecie transakcji dla miejsca 16: 
+Rozpoczecie transakcji dla miejsca 11: 
+Rozpoczecie transakcji dla miejsca 11: 
+Rozpoczecie transakcji dla miejsca 10: 
+Rozpoczecie transakcji dla miejsca 10: 
+Rozpoczecie transakcji dla miejsca 9: 
+Rozpoczecie transakcji dla miejsca 9: 
+Transakcja dla miejsca 8 nie doszla do skutku,
+Czas transakcji dla miejsca 8 wynosi: 1033,5949
+Transakcja dla miejsca 8 nie doszla do skutku,
+Czas transakcji dla miejsca 8 wynosi: 1032,6183
+Dodano do tabeli wynikowej
+Dodano do tabeli wynikowej
+Rozpoczecie transakcji dla miejsca 22: 
+Rozpoczecie transakcji dla miejsca 22: 
+Rozpoczecie transakcji dla miejsca 22: 
+Rozpoczecie transakcji dla miejsca 17: 
+Rozpoczecie transakcji dla miejsca 17: 
+Rozpoczecie transakcji dla miejsca 17: 
+Rozpoczecie transakcji dla miejsca 16: 
+Rozpoczecie transakcji dla miejsca 16: 
+Rozpoczecie transakcji dla miejsca 14: 
+Rozpoczecie transakcji dla miejsca 14: 
+Rozpoczecie transakcji dla miejsca 4: 
+Rozpoczecie transakcji dla miejsca 4: 
+Rozpoczecie transakcji dla miejsca 4: 
+Rozpoczecie transakcji dla miejsca 21: 
+Rozpoczecie transakcji dla miejsca 21: 
+Rozpoczecie transakcji dla miejsca 21: 
+Rozpoczecie transakcji dla miejsca 20: 
+Rozpoczecie transakcji dla miejsca 20: 
+Transakcja dla miejsca 6 nie doszla do skutku,
+Czas transakcji dla miejsca 6 wynosi: 1790,2179
+Transakcja dla miejsca 6 nie doszla do skutku,
+Czas transakcji dla miejsca 6 wynosi: 1789,9117
+Transakcja dla miejsca 6 nie doszla do skutku,
+Czas transakcji dla miejsca 6 wynosi: 1789,8975
+Dodano do tabeli wynikowej
+Dodano do tabeli wynikowej
+Dodano do tabeli wynikowej
+Rozpoczecie transakcji dla miejsca 10: 
+Rozpoczecie transakcji dla miejsca 10: 
+Rozpoczecie transakcji dla miejsca 10: 
+Rozpoczecie transakcji dla miejsca 10: 
+Rozpoczecie transakcji dla miejsca 10: 
+Transakcja dla miejsca 6 nie doszla do skutku,
+Czas transakcji dla miejsca 6 wynosi: 1513,664
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 6 nie doszla do skutku,
+Czas transakcji dla miejsca 6 wynosi: 1512,981
+Dodano do tabeli wynikowej
+Rozpoczecie transakcji dla miejsca 5: 
+Rozpoczecie transakcji dla miejsca 5: 
+Rozpoczecie transakcji dla miejsca 3: 
+Rozpoczecie transakcji dla miejsca 3: 
+Rozpoczecie transakcji dla miejsca 3: 
+Rozpoczecie transakcji dla miejsca 2: 
+Rozpoczecie transakcji dla miejsca 2: 
+Rozpoczecie transakcji dla miejsca 2: 
+Transakcja dla miejsca 18 nie doszla do skutku,
+Czas transakcji dla miejsca 18 wynosi: 1622,0321
+Transakcja dla miejsca 18 nie doszla do skutku,
+Czas transakcji dla miejsca 18 wynosi: 1622,2362
+Rozpoczecie transakcji dla miejsca 10: 
+Rozpoczecie transakcji dla miejsca 10: 
+Dodano do tabeli wynikowej
+Dodano do tabeli wynikowej
+Rozpoczecie transakcji dla miejsca 9: 
+Rozpoczecie transakcji dla miejsca 9: 
+Rozpoczecie transakcji dla miejsca 8: 
+Rozpoczecie transakcji dla miejsca 8: 
+Rozpoczecie transakcji dla miejsca 8: 
+Transakcja miejsca 17 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 17
+Czas transakcji dla miejsca 17 wynosi: 1348,452
+Dodano do tabeli wynikowej
+Transakcja miejsca 17 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 17
+Czas transakcji dla miejsca 17 wynosi: 1345,4069
+Dodano do tabeli wynikowej
+Transakcja miejsca 17 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 17
+Czas transakcji dla miejsca 17 wynosi: 1345,3783
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 4 nie doszla do skutku,
+Transakcja dla miejsca 4 nie doszla do skutku,
+Czas transakcji dla miejsca 4 wynosi: 2286,5674
+Czas transakcji dla miejsca 4 wynosi: 2292,7617
+Transakcja dla miejsca 4 nie doszla do skutku,
+Czas transakcji dla miejsca 4 wynosi: 2280,743
+Rozpoczecie transakcji dla miejsca 14: 
+Dodano do tabeli wynikowej
+Dodano do tabeli wynikowej
+Dodano do tabeli wynikowej
+Rozpoczecie transakcji dla miejsca 14: 
+Rozpoczecie transakcji dla miejsca 13: 
+Rozpoczecie transakcji dla miejsca 13: 
+Rozpoczecie transakcji dla miejsca 8: 
+Rozpoczecie transakcji dla miejsca 8: 
+Rozpoczecie transakcji dla miejsca 20: 
+Transakcja dla miejsca 16 nie doszla do skutku,
+Czas transakcji dla miejsca 16 wynosi: 2380,2381
+Rozpoczecie transakcji dla miejsca 20: 
+Transakcja dla miejsca 16 nie doszla do skutku,
+Czas transakcji dla miejsca 16 wynosi: 2380,7504
+Rozpoczecie transakcji dla miejsca 20: 
+Dodano do tabeli wynikowej
+Dodano do tabeli wynikowej
+Rozpoczecie transakcji dla miejsca 19: 
+Rozpoczecie transakcji dla miejsca 17: 
+Rozpoczecie transakcji dla miejsca 17: 
+Transakcja miejsca 13 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 13
+Czas transakcji dla miejsca 13 wynosi: 2947,6246
+Transakcja miejsca 13 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 13
+Czas transakcji dla miejsca 13 wynosi: 2948,1254
+Dodano do tabeli wynikowej
+Dodano do tabeli wynikowej
+Transakcja miejsca 13 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 13
+Czas transakcji dla miejsca 13 wynosi: 2948,1776
+Dodano do tabeli wynikowej
+Transakcja miejsca 13 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 13
+Czas transakcji dla miejsca 13 wynosi: 2947,7845
+Dodano do tabeli wynikowej
+Transakcja miejsca 13 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 13
+Czas transakcji dla miejsca 13 wynosi: 2947,767
+Dodano do tabeli wynikowej
+Rozpoczecie transakcji dla miejsca 12: 
+Rozpoczecie transakcji dla miejsca 12: 
+Transakcja dla miejsca 16 nie doszla do skutku,
+Czas transakcji dla miejsca 16 wynosi: 2103,6736
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 16 nie doszla do skutku,
+Czas transakcji dla miejsca 16 wynosi: 2104,0999
+Dodano do tabeli wynikowej
+Rozpoczecie transakcji dla miejsca 3: 
+Rozpoczecie transakcji dla miejsca 3: 
+Rozpoczecie transakcji dla miejsca 3: 
+Rozpoczecie transakcji dla miejsca 2: 
+Rozpoczecie transakcji dla miejsca 2: 
+Rozpoczecie transakcji dla miejsca 2: 
+Rozpoczecie transakcji dla miejsca 1: 
+Rozpoczecie transakcji dla miejsca 1: 
+Rozpoczecie transakcji dla miejsca 1: 
+Rozpoczecie transakcji dla miejsca 18: 
+Rozpoczecie transakcji dla miejsca 18: 
+Rozpoczecie transakcji dla miejsca 18: 
+Transakcja dla miejsca 8 nie doszla do skutku,
+Czas transakcji dla miejsca 8 wynosi: 1368,2464
+Transakcja dla miejsca 8 nie doszla do skutku,
+Czas transakcji dla miejsca 8 wynosi: 1368,1934
+Transakcja dla miejsca 8 nie doszla do skutku,
+Czas transakcji dla miejsca 8 wynosi: 1368,2336
+Dodano do tabeli wynikowej
+Dodano do tabeli wynikowej
+Dodano do tabeli wynikowej
+Transakcja miejsca 5 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 5
+Czas transakcji dla miejsca 5 wynosi: 1935,9647
+Dodano do tabeli wynikowej
+Transakcja miejsca 5 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 5
+Czas transakcji dla miejsca 5 wynosi: 1935,9716
+Dodano do tabeli wynikowej
+Rozpoczecie transakcji dla miejsca 1: 
+Rozpoczecie transakcji dla miejsca 1: 
+Rozpoczecie transakcji dla miejsca 1: 
+Transakcja dla miejsca 12 nie doszla do skutku,
+Czas transakcji dla miejsca 12 wynosi: 3705,982
+Dodano do tabeli wynikowej
+Rozpoczecie transakcji dla miejsca 22: 
+Transakcja dla miejsca 12 nie doszla do skutku,
+Czas transakcji dla miejsca 12 wynosi: 3706,3125
+Dodano do tabeli wynikowej
+Rozpoczecie transakcji dla miejsca 22: 
+Rozpoczecie transakcji dla miejsca 22: 
+Transakcja miejsca 14 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 14
+Czas transakcji dla miejsca 14 wynosi: 2862,0832
+Dodano do tabeli wynikowej
+Transakcja miejsca 14 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 14
+Czas transakcji dla miejsca 14 wynosi: 2862,6377
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 11 nie doszla do skutku,
+Czas transakcji dla miejsca 11 wynosi: 3428,8846
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 11 nie doszla do skutku,
+Czas transakcji dla miejsca 11 wynosi: 3429,1886
+Dodano do tabeli wynikowej
+Transakcja miejsca 19 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 19
+Czas transakcji dla miejsca 19 wynosi: 1200,3968
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 4 nie doszla do skutku,
+Czas transakcji dla miejsca 4 wynosi: 2971,0162
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 4 nie doszla do skutku,
+Czas transakcji dla miejsca 4 wynosi: 2970,9268
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 4 nie doszla do skutku,
+Czas transakcji dla miejsca 4 wynosi: 2970,8379
+Dodano do tabeli wynikowej
+Transakcja miejsca 3 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 3
+Czas transakcji dla miejsca 3 wynosi: 2694,7925
+Dodano do tabeli wynikowej
+Transakcja miejsca 3 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 3
+Czas transakcji dla miejsca 3 wynosi: 2694,42
+Dodano do tabeli wynikowej
+Transakcja miejsca 3 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 3
+Czas transakcji dla miejsca 3 wynosi: 2694,8348
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 11 nie doszla do skutku,
+Czas transakcji dla miejsca 11 wynosi: 4465,4247
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 11 nie doszla do skutku,
+Czas transakcji dla miejsca 11 wynosi: 4465,6171
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 11 nie doszla do skutku,
+Czas transakcji dla miejsca 11 wynosi: 4464,9654
+Dodano do tabeli wynikowej
+Transakcja miejsca 10 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 10
+Czas transakcji dla miejsca 10 wynosi: 4189,0534
+Dodano do tabeli wynikowej
+Transakcja miejsca 10 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 10
+Czas transakcji dla miejsca 10 wynosi: 4189,0936
+Dodano do tabeli wynikowej
+Transakcja miejsca 17 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 17
+Czas transakcji dla miejsca 17 wynosi: 1960,1064
+Dodano do tabeli wynikowej
+Transakcja miejsca 17 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 17
+Czas transakcji dla miejsca 17 wynosi: 1959,6022
+Dodano do tabeli wynikowej
+Transakcja miejsca 14 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 14
+Czas transakcji dla miejsca 14 wynosi: 2525,799
+Dodano do tabeli wynikowej
+Transakcja miejsca 14 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 14
+Czas transakcji dla miejsca 14 wynosi: 2525,5595
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 22 nie doszla do skutku,
+Czas transakcji dla miejsca 22 wynosi: 4295,9749
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 22 nie doszla do skutku,
+Czas transakcji dla miejsca 22 wynosi: 4296,2546
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 22 nie doszla do skutku,
+Czas transakcji dla miejsca 22 wynosi: 4296,2131
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 2 nie doszla do skutku,
+Czas transakcji dla miejsca 2 wynosi: 3453,3936
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 2 nie doszla do skutku,
+Czas transakcji dla miejsca 2 wynosi: 3452,8313
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 2 nie doszla do skutku,
+Czas transakcji dla miejsca 2 wynosi: 3453,462
+Dodano do tabeli wynikowej
+Transakcja miejsca 21 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 21
+Czas transakcji dla miejsca 21 wynosi: 4019,6554
+Dodano do tabeli wynikowej
+Transakcja miejsca 21 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 21
+Czas transakcji dla miejsca 21 wynosi: 4019,8311
+Dodano do tabeli wynikowej
+Transakcja miejsca 21 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 21
+Czas transakcji dla miejsca 21 wynosi: 4019,7883
+Dodano do tabeli wynikowej
+Transakcja miejsca 9 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 9
+Czas transakcji dla miejsca 9 wynosi: 4947,5951
+Transakcja miejsca 9 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 9
+Czas transakcji dla miejsca 9 wynosi: 4947,6678
+Dodano do tabeli wynikowej
+Dodano do tabeli wynikowej
+Transakcja miejsca 3 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 3
+Czas transakcji dla miejsca 3 wynosi: 2357,86
+Dodano do tabeli wynikowej
+Transakcja miejsca 3 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 3
+Czas transakcji dla miejsca 3 wynosi: 2357,3682
+Dodano do tabeli wynikowej
+Transakcja miejsca 3 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 3
+Czas transakcji dla miejsca 3 wynosi: 2357,7954
+Dodano do tabeli wynikowej
+Transakcja miejsca 13 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 13
+Czas transakcji dla miejsca 13 wynosi: 3284,6807
+Dodano do tabeli wynikowej
+Transakcja miejsca 13 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 13
+Czas transakcji dla miejsca 13 wynosi: 3284,8406
+Dodano do tabeli wynikowej
+Transakcja miejsca 10 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 10
+Czas transakcji dla miejsca 10 wynosi: 3851,571
+Dodano do tabeli wynikowej
+Transakcja miejsca 10 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 10
+Czas transakcji dla miejsca 10 wynosi: 3851,6048
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 12 nie doszla do skutku,
+Czas transakcji dla miejsca 12 wynosi: 3007,2228
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 12 nie doszla do skutku,
+Czas transakcji dla miejsca 12 wynosi: 3006,9114
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 20 nie doszla do skutku,
+Czas transakcji dla miejsca 20 wynosi: 4778,9911
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 20 nie doszla do skutku,
+Czas transakcji dla miejsca 20 wynosi: 4778,233
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 2 nie doszla do skutku,
+Czas transakcji dla miejsca 2 wynosi: 3116,48
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 2 nie doszla do skutku,
+Czas transakcji dla miejsca 2 wynosi: 3115,9493
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 2 nie doszla do skutku,
+Czas transakcji dla miejsca 2 wynosi: 3116,376
+Dodano do tabeli wynikowej
+Transakcja miejsca 10 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 10
+Czas transakcji dla miejsca 10 wynosi: 4886,9907
+Dodano do tabeli wynikowej
+Transakcja miejsca 10 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 10
+Czas transakcji dla miejsca 10 wynosi: 4886,2483
+Dodano do tabeli wynikowej
+Transakcja miejsca 10 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 10
+Czas transakcji dla miejsca 10 wynosi: 4886,5588
+Dodano do tabeli wynikowej
+Transakcja miejsca 10 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 10
+Czas transakcji dla miejsca 10 wynosi: 4886,3766
+Dodano do tabeli wynikowej
+Transakcja miejsca 10 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 10
+Czas transakcji dla miejsca 10 wynosi: 4886,5113
+Dodano do tabeli wynikowej
+Transakcja miejsca 1 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 1
+Czas transakcji dla miejsca 1 wynosi: 2839,4694
+Dodano do tabeli wynikowej
+Transakcja miejsca 1 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 1
+Czas transakcji dla miejsca 1 wynosi: 2839,6832
+Dodano do tabeli wynikowej
+Transakcja miejsca 1 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 1
+Czas transakcji dla miejsca 1 wynosi: 2839,3411
+Dodano do tabeli wynikowej
+Transakcja miejsca 9 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 9
+Czas transakcji dla miejsca 9 wynosi: 4610,702
+Dodano do tabeli wynikowej
+Transakcja miejsca 9 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 9
+Czas transakcji dla miejsca 9 wynosi: 4611,0368
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 8 nie doszla do skutku,
+Czas transakcji dla miejsca 8 wynosi: 4332,9495
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 8 nie doszla do skutku,
+Czas transakcji dla miejsca 8 wynosi: 4333,1791
+Dodano do tabeli wynikowej
+Transakcja miejsca 1 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 1
+Czas transakcji dla miejsca 1 wynosi: 3875,4536
+Transakcja miejsca 1 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 1
+Czas transakcji dla miejsca 1 wynosi: 3874,2792
+Transakcja miejsca 1 na poziomie izolacji: ReadCommitted
+Skommitowano transakcj© dla miejsca: 1
+Czas transakcji dla miejsca 1 wynosi: 3874,6385
+Dodano do tabeli wynikowej
+Dodano do tabeli wynikowej
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 20 nie doszla do skutku,
+Czas transakcji dla miejsca 20 wynosi: 4441,0119
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 20 nie doszla do skutku,
+Czas transakcji dla miejsca 20 wynosi: 4441,7829
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 20 nie doszla do skutku,
+Czas transakcji dla miejsca 20 wynosi: 4440,8631
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 22 nie doszla do skutku,
+Czas transakcji dla miejsca 22 wynosi: 3597,9303
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 22 nie doszla do skutku,
+Czas transakcji dla miejsca 22 wynosi: 3598,8112
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 22 nie doszla do skutku,
+Czas transakcji dla miejsca 22 wynosi: 3598,5238
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 18 nie doszla do skutku,
+Czas transakcji dla miejsca 18 wynosi: 4923,7557
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 18 nie doszla do skutku,
+Czas transakcji dla miejsca 18 wynosi: 4923,7365
+Dodano do tabeli wynikowej
+Transakcja dla miejsca 18 nie doszla do skutku,
+Czas transakcji dla miejsca 18 wynosi: 4923,0309
+Dodano do tabeli wynikowej
