@@ -6,3 +6,11 @@ c:\users\asia\documents\visual studio 2015\Projects\ProjTransakcje\ProjTransakcj
 c:\users\asia\documents\visual studio 2015\Projects\ProjTransakcje\ProjTransakcje\obj\Debug\ProjTransakcje.pdb
 C:\Users\Asia\documents\visual studio 2015\Projects\ProjTransakcje\ProjTransakcje\bin\Debug\NLog.dll
 C:\Users\Asia\documents\visual studio 2015\Projects\ProjTransakcje\ProjTransakcje\bin\Debug\NLog.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\ProjTransakcje\PracBadProj\ProjTransakcje\bin\Debug\ProjTransakcje.exe.config
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\ProjTransakcje\PracBadProj\ProjTransakcje\bin\Debug\ProjTransakcje.exe
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\ProjTransakcje\PracBadProj\ProjTransakcje\bin\Debug\ProjTransakcje.pdb
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\ProjTransakcje\PracBadProj\ProjTransakcje\bin\Debug\NLog.dll
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\ProjTransakcje\PracBadProj\ProjTransakcje\bin\Debug\NLog.xml
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\ProjTransakcje\PracBadProj\ProjTransakcje\obj\Debug\ProjTransakcje.csprojResolveAssemblyReference.cache
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\ProjTransakcje\PracBadProj\ProjTransakcje\obj\Debug\ProjTransakcje.exe
+C:\Users\Asia\Documents\Visual Studio 2015\Projects\ProjTransakcje\PracBadProj\ProjTransakcje\obj\Debug\ProjTransakcje.pdb
