@@ -7,7 +7,7 @@ namespace ProjTransakcje
     class Optimistic
     {
         /// <summary>
-        /// Calkowita liczba miejsc w salis
+        /// Calkowita liczba miejsc w sali
         /// </summary>
         public int t_liczba_miejsc = 51;
 
@@ -21,7 +21,10 @@ namespace ProjTransakcje
         /// </summary>
         public Wynik t_wynik;
 
-        int[] miejsca = new int[4];
+        /// <summary>
+        /// losowana liczba miejsc
+        /// </summary>
+        int[] miejsca; 
 
         public SqlConnection m_connection;
         public SqlConnection m_connection_insert;
@@ -83,6 +86,7 @@ namespace ProjTransakcje
 
             int[] wolne;
             int miejsce;
+
 
             Random r = new Random();
 
@@ -184,8 +188,9 @@ namespace ProjTransakcje
 
                     if (wolne.Contains(miejsce))
                     {
-                        command_insert.CommandText = "Insert into Zamowienie (IDZamowienia, IDSeansu, NrMiejsca, StatusB, NazwaKlienta) VALUES (" + t_id + "3, 1, " + miejsce + ", 1, 'nazwakli')";
+                        command_insert.CommandText = "Insert into Zamowienie (IDSeansu, NrMiejsca, StatusB, NazwaKlienta) VALUES (1, " + miejsce + ", 1, 'nazwakli')";
                         command_insert.ExecuteNonQuery();
+                        
                         Console.WriteLine("Transakcja insert miejsca {0} na poziomie izolacji: {1}", miejsce, transaction_insert.IsolationLevel.ToString());
                         transaction_insert.Commit();
                         Console.WriteLine("Skommitowano transakcję insert dla miejsca: {0}", miejsce);
@@ -209,60 +214,131 @@ namespace ProjTransakcje
                 daj_metode.dodaj_wynik(t_wynik, m_connection_insert);
             }
 
-            using (m_connection_update = new SqlConnection(connectionString))
+            //using (m_connection_update = new SqlConnection(connectionString))
+            //{
+            //    m_connection_update.Open();
+            //    SqlCommand command_update = m_connection_update.CreateCommand();
+            //    SqlTransaction transaction_update;
+
+            //    transaction_update = m_connection_update.BeginTransaction("UpdateTransaction");
+            //    command_update.Connection = m_connection_update;
+
+            //    command_update.Connection = m_connection_update;
+            //    command_update.Transaction = transaction_update;
+
+            //    if (wolne == null)
+            //    {
+            //        Console.WriteLine("Brak wolnych");
+            //        transaction_update.Rollback();
+            //        //info 
+            //    }
+            //    else
+            //    {
+            //        int czas_op = r.Next(1000, 5000);
+            //        System.Threading.Thread.Sleep(czas_op);
+
+            //        if (wolne.Contains(miejsce))
+            //        {
+            //            command_update.CommandText = "UPDATE Zamowienie SET StatusB = '0' WHERE IDZamowienia = " + t_id + "; ";
+            //            command_update.ExecuteNonQuery();
+            //            Console.WriteLine("Transakcja update miejsca {0} na poziomie izolacji: {1}", miejsce, transaction_update.IsolationLevel.ToString());
+
+            //            transaction_update.Commit();
+            //            Console.WriteLine("Skommitowano transakcję update dla miejsca: {0}", miejsce);
+            //        }
+            //        else
+            //        {
+            //            //info ze w miedzyczasie zost sprzedane
+            //            Console.WriteLine("Transakcja update dla miejsca {0} nie doszla do skutku,", miejsce);
+            //            transaction_update.Rollback();
+            //            t_wynik.w_konflikt = true;
+            //        }
+
+            //        t_wynik.w_stop = DateTime.Now;
+            //        TimeSpan czas = t_wynik.w_stop - t_wynik.w_start;
+            //        t_wynik.w_opoznienie = daj_metode.policzOpoznienie(czas, miejsce);
+
+            //        // tu od timera odjac randomowy czas opoznienia 
+            //        Console.WriteLine("Czas transakcji update dla miejsca {0} wynosi: {1}", miejsce, czas.TotalMilliseconds);//timer.ElapsedMilliseconds.ToString());
+
+            //    }
+            //    daj_metode.dodaj_wynik(t_wynik, m_connection_update);
+            //}
+
+
+
+            ///////////////////////////////////////dla wielu//////////////////////////////////
+
+            miejsca = new int[r.Next(4)];
+
+            for(int i=0; i<miejsca.Length; i++)
             {
-                m_connection_update.Open();
-                SqlCommand command_update = m_connection_update.CreateCommand();
-                SqlTransaction transaction_update;
+                miejsca[i] = r.Next(1, wolne.Length);
 
-                transaction_update = m_connection_update.BeginTransaction("UpdateTransaction");
-                command_update.Connection = m_connection_update;
-
-                command_update.Connection = m_connection_update;
-                command_update.Transaction = transaction_update;
-
-                if (wolne == null)
+                using (m_connection_update = new SqlConnection(connectionString))
                 {
-                    Console.WriteLine("Brak wolnych");
-                    transaction_update.Rollback();
-                    //info 
-                }
-                else
-                {
-                    int czas_op = r.Next(1000, 5000);
-                    System.Threading.Thread.Sleep(czas_op);
+                    m_connection_update.Open();
+                    SqlCommand command_update = m_connection_update.CreateCommand();
+                    SqlTransaction transaction_update;
 
-                    if (wolne.Contains(miejsce))
+                    transaction_update = m_connection_update.BeginTransaction("UpdateTransaction");
+                    command_update.Connection = m_connection_update;
+
+                    command_update.Connection = m_connection_update;
+                    command_update.Transaction = transaction_update;
+
+                    if (wolne == null)
                     {
-                        command_update.CommandText = "UPDATE Zamowienie SET StatusB = '0' WHERE IDZamowienia = " + t_id + "; ";
-                        command_update.ExecuteNonQuery();
-                        Console.WriteLine("Transakcja update miejsca {0} na poziomie izolacji: {1}", miejsce, transaction_update.IsolationLevel.ToString());
-
-                        transaction_update.Commit();
-                        Console.WriteLine("Skommitowano transakcję update dla miejsca: {0}", miejsce);
+                        Console.WriteLine("Brak wolnych");
+                        transaction_update.Rollback();
+                        //info 
                     }
                     else
                     {
-                        //info ze w miedzyczasie zost sprzedane
-                        Console.WriteLine("Transakcja update dla miejsca {0} nie doszla do skutku,", miejsce);
-                        transaction_update.Rollback();
-                        t_wynik.w_konflikt = true;
+                        int czas_op = r.Next(1000, 5000);
+                        System.Threading.Thread.Sleep(czas_op);
+
+                        if (wolne.Contains(miejsca[i]))
+                        {
+                            int m = miejsca[i];
+                            command_update.CommandText = "UPDATE Zamowienie SET StatusB = '0' WHERE NrMiejsca = " + m + "; ";
+                            command_update.ExecuteNonQuery();
+                            Console.WriteLine("Transakcja update miejsca {0} na poziomie izolacji: {1}", miejsca[i], transaction_update.IsolationLevel.ToString());
+
+                            transaction_update.Commit();
+                            Console.WriteLine("Skommitowano transakcję update dla miejsca: {0}", miejsca[i]);
+                        }
+                        else
+                        {
+                            //info ze w miedzyczasie zost sprzedane
+                            Console.WriteLine("Transakcja update dla miejsca {0} nie doszla do skutku,", miejsca[i]);
+                            transaction_update.Rollback();
+                            t_wynik.w_konflikt = true;
+                        }
+
+                        t_wynik.w_stop = DateTime.Now;
+                        TimeSpan czas = t_wynik.w_stop - t_wynik.w_start;
+                        t_wynik.w_opoznienie = daj_metode.policzOpoznienie(czas, miejsca[i]);
+
+                        // tu od timera odjac randomowy czas opoznienia 
+                        Console.WriteLine("Czas transakcji update dla miejsca {0} wynosi: {1}", miejsca[i], czas.TotalMilliseconds);//timer.ElapsedMilliseconds.ToString());
+
                     }
-
-                    t_wynik.w_stop = DateTime.Now;
-                    TimeSpan czas = t_wynik.w_stop - t_wynik.w_start;
-                    t_wynik.w_opoznienie = daj_metode.policzOpoznienie(czas, miejsce);
-
-                    // tu od timera odjac randomowy czas opoznienia 
-                    Console.WriteLine("Czas transakcji update dla miejsca {0} wynosi: {1}", miejsce, czas.TotalMilliseconds);//timer.ElapsedMilliseconds.ToString());
-
+                    daj_metode.dodaj_wynik(t_wynik, m_connection_update);
                 }
-                daj_metode.dodaj_wynik(t_wynik, m_connection_update);
+
+                m_connection_update.Close();
             }
+
+
             m_connection.Close();
             m_connection_insert.Close();
-            m_connection_update.Close();
+            //m_connection_update.Close();
         }
     }
 
 }
+
+
+// JAK TO DZIALA W MS SQL
+// https://edu.pjwstk.edu.pl/wiki/e2c3275d0e1a4bc0da360dd225d74a46/Default.aspx?Page=Poziomy%20izolacji%20w%20MS%20SQL%20Server&NS=&AspxAutoDetectCookieSupport=1
